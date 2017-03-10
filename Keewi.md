@@ -11,9 +11,9 @@ library(lubridate)
 library(hms)
 ```
 
-``` r
-# I tried to read data directly from google sheet, but there is a bug I couldn't fix immediately. Then I saved the data as csv on my local directory. 
+I tried to read data directly from google sheet, but there is a bug I couldn't fix immediately. Then I saved the data as csv on my local directory.
 
+``` r
 # # Parameters
 #   # Spreadsheet key for notes
 # notes_key <- "1jiOJhqsUmHAwsgnqNSHn4m85yQL2vxhmkoZHAw2QBwQ"

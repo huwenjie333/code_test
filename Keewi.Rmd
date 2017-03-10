@@ -20,8 +20,10 @@ library(lubridate)
 library(hms)
 ```
 
+I tried to read data directly from google sheet, but there is a bug I couldn't fix immediately. Then I saved the data as csv on my local directory. 
+
 ```{r}
-# I tried to read data directly from google sheet, but there is a bug I couldn't fix immediately. Then I saved the data as csv on my local directory. 
+
 
 # # Parameters
 #   # Spreadsheet key for notes
